@@ -1,0 +1,10 @@
+Assignment...
+
+1.  Review the code.
+2.  Be prepared to explain it to me.
+3.  Create a new CSV file from an Excel file.
+4.  Read the new CSV file in so that it can be viewed.
+5.  Adapt the code to generate a neural net training file: multiple inputs with one or more outputs (your choice).
+
+Then...
+Adapt the code to read and save data to the neural net model, i.e., read in a training set, run the training, test the inputs.
