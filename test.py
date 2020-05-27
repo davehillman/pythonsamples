@@ -9,11 +9,11 @@ def run_loop():
     try:
         while rl:
 # looping actions follow...
-            t = sio.get_string("Enter a string: ")
+            t = sio.get_string("Enter a string (abc, cat, 23skidoo): ")
             sio.msg_send(t)
             num1 = sio.get_num("Enter a number: ")
             sio.msg_send(str(num1))
-            item2 = sio.get_choice("Select from: ", ["cat","dog","horse"])
+            item2 = sio.get_choice("Select from: ", ["apple","banana","blueberry"])
             sio.msg_send(item2)
             print(sio.get_2v("Enter lat/long"))
 

@@ -1,7 +1,7 @@
 # simple.py
 # Simple IO functions
 # D. Hillman
-# Oct 2019
+# May 2020 (code review)
 
 import os
 
